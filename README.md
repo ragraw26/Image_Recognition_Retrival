@@ -1,4 +1,4 @@
-# Image_Recognition_Retrival
+# Image_Recognition_Retrival 
 
 # PROBLEM STATEMENT
 
@@ -27,7 +27,7 @@ Section 5: Display Best Results 
 
 # ML ALGORITHMS
 
-We have use the following Machine Learning Algorithm to train and test our Model  namely (No Library used):
+We have use the following Machine Learning Algorithm to train and test our Model  namely:
 
 K – Means Clustering : 
 k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells.
