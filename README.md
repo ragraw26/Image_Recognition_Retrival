@@ -6,20 +6,24 @@ The problem addressed by this project is to recognize the images of similar type
 
 # SUMMARY
 
-Section 1: Extract Features
+Section 1: Extract Features :
+
   Extract Features based on  Color/ Texture/Edges
   Create a Feature File
  
-Section 2: Index the Images
+Section 2: Index the Images:
+
   Implement Indexing techniques to store Image object in Hash Map
   Use Hashing techniques
  
-Section 3: Apply Machine Learning Algorithm
+Section 3: Apply Machine Learning Algorithm:
+
   Clustering  using K –Means
   Clustering using K- Nearest Neighbor
   Based on Distance Function (Euclidean Distance)
  
-Section 4: Search Image
+Section 4: Search Image:
+
   Extract Features of the image to be compared
 
 Section 5: Display Best Results 
